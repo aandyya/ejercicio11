@@ -12,12 +12,12 @@ typedef struct {
 
 // TODO: Dividir y asignar tareas para completar la implementación de las siguientes funciones: 
 
-/**
- * Imprime la pregunta y sus opciones en la consola.
- * 
+typedef : pregunta{
+ * printf("%c", pregunta[30]);
+ * scanf("&c", a);
  * @param pregunta - La estructura de tipo Pregunta que contiene el texto de la pregunta y las opciones.
- * @return No devuelve ningún valor.
- */
+ * return;
+ *}
 
 void imprimirPregunta(Pregunta pregunta) {
     //AGREGAR LA IMPLEMENTACIÓN PARA IMPRIMIR EN CONSOLA LA PREGUNTA Y LAS OPCIONES.
