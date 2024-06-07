@@ -1,4 +1,4 @@
-# JuegoTrivia
+﻿# JuegoTrivia
 
 En esta actividad, cada integrante del equipo elegirá una función que quiera implementar. Para ello, se seguirá el siguiente proceso de trabajo colaborativo.
 
@@ -8,3 +8,4 @@ En esta actividad, cada integrante del equipo elegirá una función que quiera i
 >  Es una buena práctica que el nombre de la rama refleje claramente la función que se va a desarrollar. Por ejemplo, si vas a implementar una función para calcular el promedio, podrías nombrar tu rama *promedio*
 5. Realiza las respectivas modificaciones en el código dentro de tu rama y subélo al repositorio remoto.
 6. Cuando estés listo, incorpora tu código al programa principal 😄
+Andy Rosales Martínez elaboró este proyecto
